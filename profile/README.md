@@ -16,3 +16,9 @@
 |Call sign meaning|**K**<br>**N**ew<br>**J**apan<br>**B**roadcasting Club|
 |Power|0.05 watts|
 |Official Homepage|[NJB Official Homepage](https://njb-fm.github.io)
+
+# Main Business
+* FM radio broadcasting
+* Development of GNU/Linux distro ([Kamuriki Linux](https://njb-fm.github.io/njb-fm/kamuriki), [Univalent GNU/Linux](https://njb-fm.github.io/njb-fm/univalent))
+* Development of novel game (Zer0: kagayaku hametsu e(R-15), Great Days: nonexistence(R-15), CODENAME:Fuyo-Fuyo(R-18))
+* Music Label
