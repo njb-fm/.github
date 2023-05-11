@@ -12,7 +12,7 @@
 |Format|Music|
 |Affiliations|Independent|
 |Owner|Radio New Japan Broadcasting Club|
-|First air date|9 July 2017|
+|First air date|9 September 2017|
 |Call sign meaning|**K**<br>**N**ew<br>**J**apan<br>**B**roadcasting Club|
 |Power|0.05 watts|
 |Official Homepage|[NJB Official Homepage](https://njb-fm.github.io)
