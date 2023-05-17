@@ -9,7 +9,7 @@
 |||
 |:----|----|
 |Broadcast Area|Chikuma city, Nagano|
-|Frequency|87.7 MHz|
+|Frequency|77.7 MHz|
 |Branding|Radio New Japan|
 |Format|Music|
 |Affiliations|Independent|
