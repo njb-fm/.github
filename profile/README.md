@@ -4,23 +4,11 @@
 
 [日本語版はこちら](README_ja.md)
 
-**KNJB-FM**, branded as **Radio New Japan** (ja:新日本放送, Shin Nippon Hoso) is a microbroadcasting station in Chikuma city, Nagano pref, Japan.
+**KNJB-FM**, branded as **Radio New Japan** (ja:新日本放送, Shin Nippon Hoso) is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
-|||
-|:----|----|
-|Broadcast Area|Chikuma city, Nagano|
-|Frequency|77.7 MHz|
-|Branding|Radio New Japan|
-|Format|Music|
-|Affiliations|Independent|
-|Owner|Radio New Japan Broadcasting Club|
-|First air date|9 September 2017|
-|Call sign meaning|**K**<br>**N**ew<br>**J**apan<br>**B**roadcasting Club|
-|Power|0.05 watts|
-|Official Homepage|[NJB Official Homepage](https://njb-fm.github.io)
 
 # Main Business
-* FM radio broadcasting
+* FM radio broadcasting (77.7MHz 50mW)
 * Development of GNU/Linux distro ([Kamuriki Linux](https://github.com/njb-fm/kamuriki), [Univalent GNU/Linux](https://github.com/njb-fm/univalent))
 * Development of novel game (Zer0: kagayaku hametsu e(R-15), Great Days: nonexistence(R-15), CODENAME:Fuyo-Fuyo(R-18))
 * Music Label
