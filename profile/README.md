@@ -8,7 +8,7 @@
 
 
 # Main Business
-* FM radio broadcasting (77.7MHz 50mW)
+* FM radio broadcasting (87.7MHz 50mW)
 * Development of GNU/Linux distro ([Kamuriki Linux](https://github.com/njb-fm/kamuriki), [Univalent GNU/Linux](https://github.com/njb-fm/univalent))
 * Development of novel game (Zer0: kagayaku hametsu e(R-15), Great Days: nonexistence(R-15), CODENAME:Fuyo-Fuyo(R-18))
 * Music Label
