@@ -2,7 +2,7 @@
 
 **NJBの公式Gitリポジトリにようこそ!!**
 
-[English version is here](README.md)
+[English version is here][(README.md)](https://github.com/njb-fm/.github/blob/main/profile/README_ja.md)
 
 新日本放送(しんにっぽんほうそう、英:Radio New Japan)は長野県千曲市の同人サークルである。コールサインはKNJB-FM。
 
