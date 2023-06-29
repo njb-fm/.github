@@ -6,7 +6,7 @@
 
 **KNJB-FM**, branded as **Radio New Japan** (ja: Shin Nippon Hoso) is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
-# Requests for pull requests and bug reports
+# Notices for pull requests and bug reports
 
 When sending pull requests and bug reports to the NJB repository, please follow the instructions below.
 
