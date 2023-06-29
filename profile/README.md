@@ -6,6 +6,31 @@
 
 **KNJB-FM**, branded as **Radio New Japan** (ja: Shin Nippon Hoso) is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
+# Requests for pull requests and bug reports
+
+When sending pull requests and bug reports to the NJB repository, please follow the instructions below.
+
+**Don't devastate the repository.**
+
+Because the following repositories are closed for development, **we only accept bug reports from "Issues". We do not accept pull requests.**
+* add-pacman-repository
+* calamares-settings-univalent
+* dnfpac
+* kamuriki-utils
+* nako
+* unity-for-univalent
+* univag-restricted-extras
+* univalent
+* univalent-installer
+* univalent-keyring
+* univalent-logo
+* univalent-pkgbuild
+* univalent-tools
+* uve-skel
+* wine-desktop-entries
+
+The following repository is open for development, so **bug reports and pull requests are welcome.**
+* unifetch
 
 # Main Business
 * FM radio broadcasting (87.7MHz 50mW)
