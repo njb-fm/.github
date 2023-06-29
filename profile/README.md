@@ -12,7 +12,7 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 
 **Don't devastate the repository.**
 
-Because the following repositories are closed for development, **we only accept bug reports from "Issues". We do not accept pull requests.**
+Because the following repositories are closed for development, **We do not accept any pull requests or bug reports.**
 * add-pacman-repository
 * calamares-settings-univalent
 * dnfpac
