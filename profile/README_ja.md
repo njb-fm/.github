@@ -15,10 +15,10 @@ NJBのリポジトリにプルリクエストやバグ報告を送る際は以�
 **以下のリポジトリは開発がクローズドのため、プルリクエストは受け付けていません。また、「Issues」に書き込む際は単なるバグ報告のみお願いします。**
 * add-pacman-repository
 * calamares-settings-univalent
+* debiso
 * dnfpac
-* kamuriki-utils
 * nako
-* unity-for-univalent
+* ubuiso
 * univag-restricted-extras
 * univalent
 * univalent-installer
