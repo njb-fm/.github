@@ -16,8 +16,9 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 * add-pacman-repository
 * calamares-settings-univalent
 * dnfpac
-* kamuriki-utils
+* debiso
 * nako
+* ubuiso
 * unity-for-univalent
 * univag-restricted-extras
 * univalent
