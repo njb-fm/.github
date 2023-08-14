@@ -15,11 +15,10 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 **Because the following repositories are closed for development, we do not accept any pull requests. ALso, when you write in the "Issues", please only report a bug.**
 * add-pacman-repository
 * calamares-settings-univalent
-* dnfpac
 * debiso
+* dnfpac
 * nako
 * ubuiso
-* unity-for-univalent
 * univag-restricted-extras
 * univalent
 * univalent-installer
