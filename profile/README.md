@@ -13,24 +13,25 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 **Don't devastate the repository.**
 
 **Because the following repositories are closed for development, we do not accept any pull requests. Also, when you write in the "Issues", please only report bugs.**
-* add-pacman-repository
-* calamares-settings-univalent
-* debiso
-* dnfpac
-* nako
-* ubuiso
-* univag-restricted-extras
-* univalent
-* univalent-installer
-* univalent-keyring
-* univalent-logo
-* univalent-pkgbuild
-* univalent-tools
-* uve-skel
-* wine-desktop-entries
+* [add-pacman-repository](https://github.com/njb-fm/add-pacman-repository)
+* [alice](https://github.com/njb-fm/alice)
+* [calamares-settings-univalent](https://github.com/njb-fm/calamares-settings-univalent)
+* [debiso](https://github.com/njb-fm/debiso)
+* [dnfpac](https://github.com/njb-fm/dnfpac)
+* [nako](https://github.com/njb-fm/nako)
+* [ubuiso](https://github.com/njb-fm/ubuiso)
+* [univag-restricted-extras](https://github.com/njb-fm/univag-restricted-extras)
+* [univalent](https://github.com/njb-fm/univalent)
+* [univalent-installer](https://github.com/njb-fm/univalent-installer)
+* [univalent-keyring](https://github.com/njb-fm/univalent-keyring)
+* [univalent-logo](https://github.com/njb-fm/univalent-logo)
+* [univalent-pkgbuild](https://github.com/njb-fm/univalent-pkgbuild)
+* [univalent-tools](https://github.com/njb-fm/univalent-tools)
+* [uve-skel](https://github.com/njb-fm/uve-skel)
+* [wine-desktop-entries](https://github.com/njb-fm/wine-desktop-entries)
 
 **The following repository is open for development, so bug reports and pull requests are welcome.**
-* unifetch
+* [unifetch](https://github.com/njb-fm/unifetch)
 
 # Main Business
 * FM radio broadcasting (87.7MHz 50mW)
