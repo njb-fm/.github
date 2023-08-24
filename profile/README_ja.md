@@ -13,24 +13,25 @@ NJBのリポジトリにプルリクエストやバグ報告を送る際は以�
 **荒らしはダメ、ゼッタイ。**
 
 **以下のリポジトリは開発がクローズドのため、プルリクエストは受け付けていません。また、「Issues」に書き込む際は単なるバグ報告のみお願いします。**
-* add-pacman-repository
-* calamares-settings-univalent
-* debiso
-* dnfpac
-* nako
-* ubuiso
-* univag-restricted-extras
-* univalent
-* univalent-installer
-* univalent-keyring
-* univalent-logo
-* univalent-pkgbuild
-* univalent-tools
-* uve-skel
-* wine-desktop-entries
+* [add-pacman-repository](https://github.com/njb-fm/add-pacman-repository)
+* [alice](https://github.com/njb-fm/alice)
+* [calamares-settings-univalent](https://github.com/njb-fm/calamares-settings-univalent)
+* [debiso](https://github.com/njb-fm/debiso)
+* [dnfpac](https://github.com/njb-fm/dnfpac)
+* [nako](https://github.com/njb-fm/nako)
+* [ubuiso](https://github.com/njb-fm/ubuiso)
+* [univag-restricted-extras](https://github.com/njb-fm/univag-restricted-extras)
+* [univalent](https://github.com/njb-fm/univalent)
+* [univalent-installer](https://github.com/njb-fm/univalent-installer)
+* [univalent-keyring](https://github.com/njb-fm/univalent-keyring)
+* [univalent-logo](https://github.com/njb-fm/univalent-logo)
+* [univalent-pkgbuild](https://github.com/njb-fm/univalent-pkgbuild)
+* [univalent-tools](https://github.com/njb-fm/univalent-tools)
+* [uve-skel](https://github.com/njb-fm/uve-skel)
+* [wine-desktop-entries](https://github.com/njb-fm/wine-desktop-entries)
 
 以下のリポジトリは開発がオープンのため、**バグ報告・プルリクエストは大歓迎です。**
-* unifetch
+* [unifetch](https://github.com/njb-fm/unifetch)
 
 # 主な事業
 * FMラジオ放送 (87.7MHz 50mW)
