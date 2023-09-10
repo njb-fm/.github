@@ -15,6 +15,7 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 **Because the following repositories are closed for development, we do not accept any pull requests. Also, when you write in the "Issues", please only report bugs.**
 * [add-pacman-repository](https://github.com/njb-fm/add-pacman-repository)
 * [alice](https://github.com/njb-fm/alice)
+* [calamares-settings-kamuriki](https://github.com/njb-fm/calamares-settings-kamuriki)
 * [calamares-settings-univalent](https://github.com/njb-fm/calamares-settings-univalent)
 * [debiso](https://github.com/njb-fm/debiso)
 * [dnfpac](https://github.com/njb-fm/dnfpac)
