@@ -27,6 +27,7 @@ NJBのリポジトリにプルリクエストやバグ報告を送る際は以�
 * [univalent-logo](https://github.com/njb-fm/univalent-logo)
 * [univalent-pkgbuild](https://github.com/njb-fm/univalent-pkgbuild)
 * [univalent-tools](https://github.com/njb-fm/univalent-tools)
+* [updatepkg](https://github.com/njb-fm/updatepkg)
 * [uve-skel](https://github.com/njb-fm/uve-skel)
 * [wine-desktop-entries](https://github.com/njb-fm/wine-desktop-entries)
 
