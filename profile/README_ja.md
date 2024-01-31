@@ -1,6 +1,6 @@
 # 一般社団同人中村ジュークボックス
 
-**NJBの公式Gitリポジトリにようこそ!!**
+**NJBの公式GitHubにようこそ!!**
 
 [English version is here](https://github.com/njb-fm/.github/blob/main/profile/README_ja.md)
 
