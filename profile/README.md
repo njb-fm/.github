@@ -1,10 +1,10 @@
-# Radio New Japan Broadcasting Club
+# Naka-mura Jukebox
 
 **Welcome to NJB's official git repository!!**
 
 [日本語版はこちら](https://github.com/njb-fm/.github/blob/main/profile/README_ja.md)
 
-**KNJB-FM**, branded as **Radio New Japan** (ja: Shin Nippon Hoso) is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
+Naka-mura Jukebox is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
 # Notices for pull requests and bug reports
 
@@ -40,7 +40,6 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 * [unifetch](https://github.com/njb-fm/unifetch)
 
 # Main Business
+* Music Label "NJB Records" / "Ruritania"
+* Development of GNU/Linux distro (Kamuriki Linux, [Univalent Versatile Environment](https://github.com/njb-fm/univalent))
 * FM radio broadcasting (87.7MHz 50mW)
-* Development of GNU/Linux distro ([Kamuriki Linux](https://github.com/njb-fm/kamuriki), [Univalent Versatile Environment](https://github.com/njb-fm/univalent))
-* Development of novel game (Zer0: kagayaku hametsu e(R-15), Great Days: nonexistence(R-15), CODENAME:Fuyo-Fuyo(R-18))
-* Music Label
