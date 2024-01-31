@@ -4,7 +4,7 @@
 
 [日本語版はこちら](https://github.com/njb-fm/.github/blob/main/profile/README_ja.md)
 
-Naka-mura Jukebox is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
+Naka-mura Jukebox (Ja: 中村ジュークボックス) is a amateur (called "dojin") club in Chikuma city, Nagano pref, Japan.
 
 # Notices for pull requests and bug reports
 
@@ -41,5 +41,5 @@ When sending pull requests and bug reports to the NJB repository, please follow 
 
 # Main Business
 * Music Label "NJB Records" / "Ruritania"
-* Development of GNU/Linux distro (Kamuriki Linux, [Univalent Versatile Environment](https://github.com/njb-fm/univalent))
+* Development of Linux/GNU/X distro (Kamuriki Linux, [Univalent Versatile Environment](https://github.com/njb-fm/univalent))
 * FM radio broadcasting (87.7MHz 50mW)
