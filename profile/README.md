@@ -1,6 +1,6 @@
 # Naka-mura Jukebox
 
-**Welcome to NJB's official git repository!!**
+**Welcome to NJB's official GitHub!!**
 
 [日本語版はこちら](https://github.com/njb-fm/.github/blob/main/profile/README_ja.md)
 
