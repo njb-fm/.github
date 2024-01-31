@@ -4,7 +4,12 @@
 
 [English version is here](https://github.com/njb-fm/.github/blob/main/profile/README_ja.md)
 
-中村ジュークボックス(なかむらじゅーくぼっくす、英:Naka-mura Jukebox)は長野県千曲市の同人サークルである。コールサインはKNJB-FM。
+中村ジュークボックス(なかむらじゅーくぼっくす、英:Naka-mura Jukebox)は長野県千曲市の同人サークルである。
+
+# 主な事業
+* 音楽レーベル 「エヌ・ジェー・ビー音盤」/「Ruritania」
+* Linux/GNU/Xディストロの開発 ([Kamuriki Linux](https://github.com/njb-fm/kamuriki), [Univalent GNU/Linux](https://github.com/njb-fm/univalent))
+* FMラジオ放送 (87.7MHz 50mW)
 
 # プルリクエストやバグ報告についてのお願い
 
@@ -33,8 +38,3 @@ NJBのリポジトリにプルリクエストやバグ報告を送る際は以�
 
 以下のリポジトリは開発がオープンのため、**バグ報告・プルリクエストは大歓迎です。**
 * [unifetch](https://github.com/njb-fm/unifetch)
-
-# 主な事業
-* 音楽レーベル 「エヌ・ジェー・ビー音盤」/「Ruritania」
-* Linux/GNU/Xディストロの開発 ([Kamuriki Linux](https://github.com/njb-fm/kamuriki), [Univalent GNU/Linux](https://github.com/njb-fm/univalent))
-* FMラジオ放送 (87.7MHz 50mW)
