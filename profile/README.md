@@ -8,7 +8,7 @@ Naka-mura Jukebox (Ja: 中村ジュークボックス) is an amateur (called "do
 
 # Main Business
 * Music Label "NJB Records" / "Ruritania"
-* Development of Linux/GNU/X distro (Kamuriki Linux, [Univalent Versatile Environment](https://github.com/njb-fm/univalent))
+* Development of Linux/GNU/X distro (Kamuriki Linux, [Alis Linux/GNU/x](https://github.com/alislinux))
 * FM radio broadcasting (87.7MHz 50mW)
 
 # Notices for pull requests and bug reports
